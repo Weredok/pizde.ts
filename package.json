@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "readme": "https://github.com/Weredok/pizde.ts/README.md",
+  "repository": {
+    "url": "https://github.com/Weredok/pizde.ts"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
